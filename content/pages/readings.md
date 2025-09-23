@@ -80,7 +80,7 @@ Mowbray, Rebecca. "{{% resource_link "77829d09-bdac-4f0d-8bf5-0bce380ac5d7" "Con
 
  *Blight Project*
 
-[New Orleans Master Plan and Comprehensive Zoning Ordinance](https://manning.xyz/projects/city-new-orleans-master-plan-and-comprehensive-zoning-ordinance)
+{{% resource_link "662b0dac-ae4c-4d35-9477-6b53ca846c82" "New Orleans Master Plan and Comprehensive Zoning Ordinance" %}}
 
 "{{% resource_link "0e63f5f5-923d-4519-bec5-36b351c4d7f9" "Drifters Find Homes in Ruins Left by Hurricane Katrina" %}}." *NOLA.com.* February 13, 2011.
 
