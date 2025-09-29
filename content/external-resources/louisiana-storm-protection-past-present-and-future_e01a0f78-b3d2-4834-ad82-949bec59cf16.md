@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.loe.org/shows/segments.html?programID=06-P13-00022&segmentID=4
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'Louisiana Storm Protection: Past, Present and Future'

@@ -4,6 +4,8 @@ description: This resource offers guidelines for decision memos.
 file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/ac0bd02a50b095749c737bdc769d9f86_MIT11_027S11_decision_memo.pdf
 file_size: 228665
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/f9f89f1b627cd990697490e477045190_MIT11_027S11_memo.pdf
 file_size: 224169
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

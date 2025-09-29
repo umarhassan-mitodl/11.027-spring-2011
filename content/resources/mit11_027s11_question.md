@@ -5,6 +5,8 @@ description: This resource is a questionnaire which needs to be filled out by st
 file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/b62b18043744c777ed337b167b3d5c4a_MIT11_027S11_question.pdf
 file_size: 112635
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

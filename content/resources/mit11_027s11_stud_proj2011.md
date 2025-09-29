@@ -4,6 +4,8 @@ description: This resource includes transit oriented projects.
 file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/e3712930209aa4d3c90c9a4b4abf3824_MIT11_027S11_Stud_Proj2011.pdf
 file_size: 137533
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

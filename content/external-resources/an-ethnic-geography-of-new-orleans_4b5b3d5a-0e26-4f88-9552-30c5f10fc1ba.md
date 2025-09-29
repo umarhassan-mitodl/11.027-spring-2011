@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://news.aag.org/2017/10/an-ethnic-geography-of-new-orleans/#:~:text=This%20Journal%20of%20American%20History,antebellum%20times%20to%20post%2DKatrina.
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: An Ethnic Geography of New Orleans
