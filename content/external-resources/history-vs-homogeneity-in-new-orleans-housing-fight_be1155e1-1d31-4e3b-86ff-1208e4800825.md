@@ -5,7 +5,7 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: broken
+status: unchecked
 title: History vs. Homogeneity in New Orleans Housing Fight
 uid: be1155e1-1d31-4e3b-86ff-1208e4800825
 url_status_code: 403

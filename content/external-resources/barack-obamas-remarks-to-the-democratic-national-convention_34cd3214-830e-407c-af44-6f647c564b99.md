@@ -5,7 +5,7 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: broken
+status: unchecked
 title: Barack Obama's remarks to the Democratic National Convention
 uid: 34cd3214-830e-407c-af44-6f647c564b99
 url_status_code: 403
